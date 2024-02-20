@@ -1,11 +1,14 @@
 body{
+    margin: 0;
     background: #2C2B3D;
+    min-height: 100vh;
 }
 
 .page{
     width: 1092px;
     margin: 0 auto;
     font-family: "JetBrains Mono", monospace;
+    padding-top: 71px;
 }
 
 header{
@@ -63,7 +66,7 @@ section strong#seg{
 
 footer{
     color: #FFFFFF;
-    margin: 184px auto 23px;
+    margin: 157px auto 23px;
     font-size: 14px;
     text-align: center;
     border-top: 1px solid #00BFA6;
